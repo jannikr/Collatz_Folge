@@ -1,1 +1,3 @@
-# Collatz_Folge
+# Python Collection
+
+This code collection includes different python codes.
